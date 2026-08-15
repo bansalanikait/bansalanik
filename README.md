@@ -79,7 +79,6 @@ LiDAR · Accelerometers · Eddy Current Sensors · Robotics
 
 - 🥈 **2nd Runner Up — NIT Jalandhar Buildathon**
 - 🎯 Participant — ECLIPSE Hackathon, Thapar Patiala
-- 🔬 Technical research on the Buddha Nullah water system ecology
 
 ---
 

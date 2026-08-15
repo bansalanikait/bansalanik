@@ -1,6 +1,6 @@
 # Anikait Bansal
 
-### Electrical Engineering @ NIT Jalandhar | Networking | Cybersecurity | Systems
+### Electrical Engineering @ NIT Jalandhar | Networking | Cybersecurity | System
 
 I'm an Electrical Engineering student at **NIT Jalandhar** interested in building and understanding real-world systems across **computer networking, cybersecurity, backend engineering, Linux infrastructure, and AI/ML**.
 
